@@ -1,4 +1,4 @@
-# uber
+# Uber React Native App
 
 ### App functionalities:
 The user can search any place they want to and see the origin (starting location) as well as the destination on a map. 
